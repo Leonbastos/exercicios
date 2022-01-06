@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{ background-image: linear-gradient(45deg, #E80275, #5609DB, #D85EF2, #0216F2, #027AE8); }
+
+#principal{ text-align: center; color: white;}
+
+div{display: inline-block; border: 1px solid black; height: 200px; width: 200px;}
+
+div:hover{ background-color: yellow;}
+#div2{background-color: white;}
+
+.basico{color: rgb(199, 250, 98); font-weight: bold;}
+
+.inter{color: rgb(240, 99, 74);}
+
+.avancado{color: rgb(183, 82, 255);}
+
+.destaque{background-color: indigo;}
